@@ -76,3 +76,9 @@ func DefaultEgressSecurityPolicy() SecurityPolicy {
 	return DefaultEgressSecurityPolicyWithStats(DefaultSecurityPolicyStatsCollector())
 }
 ```
+
+## 8. Where can I get more support?
+
+For additional help, technical troubleshooting, or simply to connect with other providers and users, join our community on Discord:
+
+[Join the URnetwork Discord](https://discord.gg/urnetwork)
