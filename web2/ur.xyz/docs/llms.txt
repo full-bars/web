@@ -10,6 +10,7 @@ Key repositories: [connect](https://github.com/urnetwork/connect), [server](http
 
 ## Core Documentation
 
+- [FAQ](https://docs.ur.io/faq): Frequently asked questions regarding Extenders, WebRTC NAT traversal, WireGuard Tethering, On-Device Inspect, and automated security features.
 - [Provider Guide](https://docs.ur.io/provider): How to become a provider using apps, binaries (Linux/Windows/macOS), or Docker containers. Covers authentication, setup, background running, and multi-platform builds.
 - [API Getting Started](https://docs.ur.io/api): Authentication with admin and client JWTs, auth code flow, and API base URL.
 - [API Reference](https://docs.ur.io/api/api-reference): Full endpoint reference including auth, network, providers, wallets, subscriptions, devices, and feedback.
